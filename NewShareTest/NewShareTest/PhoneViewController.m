@@ -32,6 +32,8 @@
 	[self.navigationController pushViewController:view animated:YES];
 }
 - (IBAction)weibo:(id)sender {
+	NSLog(@"sucess");
+	UIImage *ima = [UIImage imageNamed:@"Default-568h"];
 }
 - (IBAction)qZone:(id)sender {
 }
