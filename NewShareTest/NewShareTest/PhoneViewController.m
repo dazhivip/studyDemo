@@ -32,7 +32,7 @@
 	[self.navigationController pushViewController:view animated:YES];
 }
 - (IBAction)weibo:(id)sender {
-	NSLog(@"sucess");
+
 }
 - (IBAction)qZone:(id)sender {
 }
